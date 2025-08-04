@@ -1,2 +1,1 @@
-# Induction-program
-Faiz Ali  btech mechanical engineering 
+# day 1 30th of july 
